@@ -12,6 +12,7 @@
         <module>discovery-gray-gateway</module>
         <module>discovery-gray-zuul</module>
         <module>discovery-gray-service</module>
+        <module>discovery-gray-eureka</module>
     </modules>
 
     <properties>
